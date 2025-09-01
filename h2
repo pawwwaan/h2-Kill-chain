@@ -1,0 +1,21 @@
+# Read and Summarize
+
+## Abstract
+- Kill chain: attacks happen in **stages**, not single events.  
+- Each stage gives defenders a chance to **detect and disrupt**.  
+- Using intelligence about adversaries improves defenses.  
+- Blocking even one stage can stop the whole attack.
+
+## Section 3.2 Intrusion Kill Chain  
+- Seven stages:  
+  1. Reconnaissance  
+  2. Weaponization  
+  3. Delivery  
+  4. Exploitation  
+  5. Installation  
+  6. Command & Control  
+  7. Actions on Objectives  
+- Defenders can act on each stage, not only at the end.  
+
+  ### My own question 
+  Which stage of the kill chain is usually the hardest for defenders to detect, and why? 
